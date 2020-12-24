@@ -1,0 +1,12 @@
+body {background-color: #E6B0AA ;
+font-family: JetBrains Mono}
+
+p {color:white; font-size:15}
+
+a:link {color:white}
+
+a:visited {color:rosybrown}
+
+a:hover {color:cadetblue}
+
+a:active {color:tan}
